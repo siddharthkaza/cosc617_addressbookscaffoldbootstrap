@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../addressbook_rails42/.idea/addressbook_rails41 (from Secinj-laptop1).iml" filepath="$PROJECT_DIR$/../addressbook_rails42/.idea/addressbook_rails41 (from Secinj-laptop1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cosc617_addressbookscaffoldbootstrap.iml" filepath="$PROJECT_DIR$/.idea/cosc617_addressbookscaffoldbootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" filepath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" />
     </modules>
   </component>
 </project>
